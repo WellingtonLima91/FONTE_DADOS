@@ -4,3 +4,11 @@
 [Apresentação em grupo - Comunicação Empresarial.pdf](https://github.com/user-attachments/files/22055678/Apresentacao.em.grupo.-.Comunicacao.Empresarial.pdf)
 
 <img width="1592" height="435" alt="image" src="https://github.com/user-attachments/assets/6d44a6f7-a06e-4a71-b0e5-96589ef54ecf" />
+## FÓRMULAS DO EXCEL:
+MÍNINOSES,
+MÁXIMOSES,
+CORRESP,
+ÍNDICE,
+CONT.SE,
+SOMASES,
+CONTVALORES.
